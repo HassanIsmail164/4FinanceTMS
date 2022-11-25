@@ -1,0 +1,177 @@
+H:\#Update\4Finance\.NET Projects\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\appsettings.Development.json
+H:\#Update\4Finance\.NET Projects\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\appsettings.json
+H:\#Update\4Finance\.NET Projects\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\4FinanceTMS.exe
+H:\#Update\4Finance\.NET Projects\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\4FinanceTMS.deps.json
+H:\#Update\4Finance\.NET Projects\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\4FinanceTMS.runtimeconfig.json
+H:\#Update\4Finance\.NET Projects\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\4FinanceTMS.dll
+H:\#Update\4Finance\.NET Projects\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\4FinanceTMS.pdb
+H:\#Update\4Finance\.NET Projects\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\Microsoft.OpenApi.dll
+H:\#Update\4Finance\.NET Projects\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\#Update\4Finance\.NET Projects\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\#Update\4Finance\.NET Projects\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\#Update\4Finance\.NET Projects\TMS Project\Backend\4FinanceTMS\4FinanceTMS\obj\Debug\net6.0\4FinanceTMS.csproj.AssemblyReference.cache
+H:\#Update\4Finance\.NET Projects\TMS Project\Backend\4FinanceTMS\4FinanceTMS\obj\Debug\net6.0\4FinanceTMS.GeneratedMSBuildEditorConfig.editorconfig
+H:\#Update\4Finance\.NET Projects\TMS Project\Backend\4FinanceTMS\4FinanceTMS\obj\Debug\net6.0\4FinanceTMS.AssemblyInfoInputs.cache
+H:\#Update\4Finance\.NET Projects\TMS Project\Backend\4FinanceTMS\4FinanceTMS\obj\Debug\net6.0\4FinanceTMS.AssemblyInfo.cs
+H:\#Update\4Finance\.NET Projects\TMS Project\Backend\4FinanceTMS\4FinanceTMS\obj\Debug\net6.0\4FinanceTMS.csproj.CoreCompileInputs.cache
+H:\#Update\4Finance\.NET Projects\TMS Project\Backend\4FinanceTMS\4FinanceTMS\obj\Debug\net6.0\4FinanceTMS.MvcApplicationPartsAssemblyInfo.cs
+H:\#Update\4Finance\.NET Projects\TMS Project\Backend\4FinanceTMS\4FinanceTMS\obj\Debug\net6.0\4FinanceTMS.MvcApplicationPartsAssemblyInfo.cache
+H:\#Update\4Finance\.NET Projects\TMS Project\Backend\4FinanceTMS\4FinanceTMS\obj\Debug\net6.0\staticwebassets\msbuild.4FinanceTMS.Microsoft.AspNetCore.StaticWebAssets.props
+H:\#Update\4Finance\.NET Projects\TMS Project\Backend\4FinanceTMS\4FinanceTMS\obj\Debug\net6.0\staticwebassets\msbuild.build.4FinanceTMS.props
+H:\#Update\4Finance\.NET Projects\TMS Project\Backend\4FinanceTMS\4FinanceTMS\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.4FinanceTMS.props
+H:\#Update\4Finance\.NET Projects\TMS Project\Backend\4FinanceTMS\4FinanceTMS\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.4FinanceTMS.props
+H:\#Update\4Finance\.NET Projects\TMS Project\Backend\4FinanceTMS\4FinanceTMS\obj\Debug\net6.0\staticwebassets.pack.json
+H:\#Update\4Finance\.NET Projects\TMS Project\Backend\4FinanceTMS\4FinanceTMS\obj\Debug\net6.0\staticwebassets.build.json
+H:\#Update\4Finance\.NET Projects\TMS Project\Backend\4FinanceTMS\4FinanceTMS\obj\Debug\net6.0\staticwebassets.development.json
+H:\#Update\4Finance\.NET Projects\TMS Project\Backend\4FinanceTMS\4FinanceTMS\obj\Debug\net6.0\scopedcss\bundle\4FinanceTMS.styles.css
+H:\#Update\4Finance\.NET Projects\TMS Project\Backend\4FinanceTMS\4FinanceTMS\obj\Debug\net6.0\4FinanceTMS.csproj.CopyComplete
+H:\#Update\4Finance\.NET Projects\TMS Project\Backend\4FinanceTMS\4FinanceTMS\obj\Debug\net6.0\4FinanceTMS.dll
+H:\#Update\4Finance\.NET Projects\TMS Project\Backend\4FinanceTMS\4FinanceTMS\obj\Debug\net6.0\refint\4FinanceTMS.dll
+H:\#Update\4Finance\.NET Projects\TMS Project\Backend\4FinanceTMS\4FinanceTMS\obj\Debug\net6.0\4FinanceTMS.pdb
+H:\#Update\4Finance\.NET Projects\TMS Project\Backend\4FinanceTMS\4FinanceTMS\obj\Debug\net6.0\4FinanceTMS.genruntimeconfig.cache
+H:\#Update\4Finance\.NET Projects\TMS Project\Backend\4FinanceTMS\4FinanceTMS\obj\Debug\net6.0\ref\4FinanceTMS.dll
+H:\#Update\4Finance\.NET Projects\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\Azure.Core.dll
+H:\#Update\4Finance\.NET Projects\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\Azure.Identity.dll
+H:\#Update\4Finance\.NET Projects\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\Humanizer.dll
+H:\#Update\4Finance\.NET Projects\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+H:\#Update\4Finance\.NET Projects\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+H:\#Update\4Finance\.NET Projects\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+H:\#Update\4Finance\.NET Projects\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\#Update\4Finance\.NET Projects\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+H:\#Update\4Finance\.NET Projects\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+H:\#Update\4Finance\.NET Projects\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\#Update\4Finance\.NET Projects\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+H:\#Update\4Finance\.NET Projects\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+H:\#Update\4Finance\.NET Projects\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+H:\#Update\4Finance\.NET Projects\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+H:\#Update\4Finance\.NET Projects\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+H:\#Update\4Finance\.NET Projects\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+H:\#Update\4Finance\.NET Projects\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+H:\#Update\4Finance\.NET Projects\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+H:\#Update\4Finance\.NET Projects\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+H:\#Update\4Finance\.NET Projects\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+H:\#Update\4Finance\.NET Projects\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+H:\#Update\4Finance\.NET Projects\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+H:\#Update\4Finance\.NET Projects\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+H:\#Update\4Finance\.NET Projects\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\#Update\4Finance\.NET Projects\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+H:\#Update\4Finance\.NET Projects\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+H:\#Update\4Finance\.NET Projects\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\#Update\4Finance\.NET Projects\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+H:\#Update\4Finance\.NET Projects\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+H:\#Update\4Finance\.NET Projects\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+H:\#Update\4Finance\.NET Projects\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\Mono.TextTemplating.dll
+H:\#Update\4Finance\.NET Projects\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\System.CodeDom.dll
+H:\#Update\4Finance\.NET Projects\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+H:\#Update\4Finance\.NET Projects\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\System.Drawing.Common.dll
+H:\#Update\4Finance\.NET Projects\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+H:\#Update\4Finance\.NET Projects\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\System.Memory.Data.dll
+H:\#Update\4Finance\.NET Projects\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\System.Runtime.Caching.dll
+H:\#Update\4Finance\.NET Projects\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+H:\#Update\4Finance\.NET Projects\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\System.Security.Permissions.dll
+H:\#Update\4Finance\.NET Projects\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+H:\#Update\4Finance\.NET Projects\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\System.Text.Json.dll
+H:\#Update\4Finance\.NET Projects\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\System.Windows.Extensions.dll
+H:\#Update\4Finance\.NET Projects\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\#Update\4Finance\.NET Projects\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\#Update\4Finance\.NET Projects\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+H:\#Update\4Finance\.NET Projects\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\#Update\4Finance\.NET Projects\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\#Update\4Finance\.NET Projects\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+H:\#Update\4Finance\.NET Projects\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+H:\#Update\4Finance\.NET Projects\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+H:\#Update\4Finance\.NET Projects\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+H:\#Update\4Finance\.NET Projects\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+H:\#Update\4Finance\.NET Projects\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+H:\#Update\4Finance\.NET Projects\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+H:\#Update\4Finance\.NET Projects\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+H:\#Update\4Finance\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\appsettings.Development.json
+H:\#Update\4Finance\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\appsettings.json
+H:\#Update\4Finance\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\4FinanceTMS.exe
+H:\#Update\4Finance\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\4FinanceTMS.deps.json
+H:\#Update\4Finance\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\4FinanceTMS.runtimeconfig.json
+H:\#Update\4Finance\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\4FinanceTMS.dll
+H:\#Update\4Finance\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\4FinanceTMS.pdb
+H:\#Update\4Finance\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\Azure.Core.dll
+H:\#Update\4Finance\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\Azure.Identity.dll
+H:\#Update\4Finance\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\Humanizer.dll
+H:\#Update\4Finance\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+H:\#Update\4Finance\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+H:\#Update\4Finance\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+H:\#Update\4Finance\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\#Update\4Finance\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+H:\#Update\4Finance\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+H:\#Update\4Finance\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\#Update\4Finance\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+H:\#Update\4Finance\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+H:\#Update\4Finance\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+H:\#Update\4Finance\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+H:\#Update\4Finance\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+H:\#Update\4Finance\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+H:\#Update\4Finance\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+H:\#Update\4Finance\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+H:\#Update\4Finance\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+H:\#Update\4Finance\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+H:\#Update\4Finance\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+H:\#Update\4Finance\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+H:\#Update\4Finance\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+H:\#Update\4Finance\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\#Update\4Finance\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+H:\#Update\4Finance\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+H:\#Update\4Finance\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\#Update\4Finance\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+H:\#Update\4Finance\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\Microsoft.OpenApi.dll
+H:\#Update\4Finance\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+H:\#Update\4Finance\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+H:\#Update\4Finance\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\Mono.TextTemplating.dll
+H:\#Update\4Finance\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\#Update\4Finance\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\#Update\4Finance\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\#Update\4Finance\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\System.CodeDom.dll
+H:\#Update\4Finance\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+H:\#Update\4Finance\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\System.Drawing.Common.dll
+H:\#Update\4Finance\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+H:\#Update\4Finance\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\System.Memory.Data.dll
+H:\#Update\4Finance\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\System.Runtime.Caching.dll
+H:\#Update\4Finance\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+H:\#Update\4Finance\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\System.Security.Permissions.dll
+H:\#Update\4Finance\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+H:\#Update\4Finance\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\System.Text.Json.dll
+H:\#Update\4Finance\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\System.Windows.Extensions.dll
+H:\#Update\4Finance\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\#Update\4Finance\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\#Update\4Finance\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+H:\#Update\4Finance\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\#Update\4Finance\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\#Update\4Finance\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+H:\#Update\4Finance\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+H:\#Update\4Finance\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+H:\#Update\4Finance\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+H:\#Update\4Finance\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+H:\#Update\4Finance\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+H:\#Update\4Finance\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+H:\#Update\4Finance\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+H:\#Update\4Finance\TMS Project\Backend\4FinanceTMS\4FinanceTMS\obj\Debug\net6.0\4FinanceTMS.csproj.AssemblyReference.cache
+H:\#Update\4Finance\TMS Project\Backend\4FinanceTMS\4FinanceTMS\obj\Debug\net6.0\4FinanceTMS.GeneratedMSBuildEditorConfig.editorconfig
+H:\#Update\4Finance\TMS Project\Backend\4FinanceTMS\4FinanceTMS\obj\Debug\net6.0\4FinanceTMS.AssemblyInfoInputs.cache
+H:\#Update\4Finance\TMS Project\Backend\4FinanceTMS\4FinanceTMS\obj\Debug\net6.0\4FinanceTMS.AssemblyInfo.cs
+H:\#Update\4Finance\TMS Project\Backend\4FinanceTMS\4FinanceTMS\obj\Debug\net6.0\4FinanceTMS.csproj.CoreCompileInputs.cache
+H:\#Update\4Finance\TMS Project\Backend\4FinanceTMS\4FinanceTMS\obj\Debug\net6.0\4FinanceTMS.MvcApplicationPartsAssemblyInfo.cs
+H:\#Update\4Finance\TMS Project\Backend\4FinanceTMS\4FinanceTMS\obj\Debug\net6.0\4FinanceTMS.MvcApplicationPartsAssemblyInfo.cache
+H:\#Update\4Finance\TMS Project\Backend\4FinanceTMS\4FinanceTMS\obj\Debug\net6.0\staticwebassets\msbuild.4FinanceTMS.Microsoft.AspNetCore.StaticWebAssets.props
+H:\#Update\4Finance\TMS Project\Backend\4FinanceTMS\4FinanceTMS\obj\Debug\net6.0\staticwebassets\msbuild.build.4FinanceTMS.props
+H:\#Update\4Finance\TMS Project\Backend\4FinanceTMS\4FinanceTMS\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.4FinanceTMS.props
+H:\#Update\4Finance\TMS Project\Backend\4FinanceTMS\4FinanceTMS\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.4FinanceTMS.props
+H:\#Update\4Finance\TMS Project\Backend\4FinanceTMS\4FinanceTMS\obj\Debug\net6.0\staticwebassets.pack.json
+H:\#Update\4Finance\TMS Project\Backend\4FinanceTMS\4FinanceTMS\obj\Debug\net6.0\staticwebassets.build.json
+H:\#Update\4Finance\TMS Project\Backend\4FinanceTMS\4FinanceTMS\obj\Debug\net6.0\staticwebassets.development.json
+H:\#Update\4Finance\TMS Project\Backend\4FinanceTMS\4FinanceTMS\obj\Debug\net6.0\scopedcss\bundle\4FinanceTMS.styles.css
+H:\#Update\4Finance\TMS Project\Backend\4FinanceTMS\4FinanceTMS\obj\Debug\net6.0\4FinanceTMS.csproj.CopyComplete
+H:\#Update\4Finance\TMS Project\Backend\4FinanceTMS\4FinanceTMS\obj\Debug\net6.0\4FinanceTMS.dll
+H:\#Update\4Finance\TMS Project\Backend\4FinanceTMS\4FinanceTMS\obj\Debug\net6.0\refint\4FinanceTMS.dll
+H:\#Update\4Finance\TMS Project\Backend\4FinanceTMS\4FinanceTMS\obj\Debug\net6.0\4FinanceTMS.pdb
+H:\#Update\4Finance\TMS Project\Backend\4FinanceTMS\4FinanceTMS\obj\Debug\net6.0\4FinanceTMS.genruntimeconfig.cache
+H:\#Update\4Finance\TMS Project\Backend\4FinanceTMS\4FinanceTMS\obj\Debug\net6.0\ref\4FinanceTMS.dll
+H:\#Update\4Finance\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\FluentValidation.dll
+H:\#Update\4Finance\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+H:\#Update\4Finance\TMS Project\Backend\4FinanceTMS\4FinanceTMS\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
